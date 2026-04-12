@@ -4,14 +4,14 @@
 
 void menu() {
     printf("\n==============================");
-    printf("\n      OPERADOR OSINT (C)      ");
+    printf("\n      OSINT OPERATOR (C)      ");
     printf("\n==============================");
-    printf("\n1. Apenas Username (Sherlock)");
-    printf("\n2. Apenas IP (Geo-IP)");
-    printf("\n3. Username e IP (Completo)");
-    printf("\n0. Sair");
+    printf("\n1. Only Username (Sherlock)");
+    printf("\n2. Only IP (Geo-IP)");
+    printf("\n3. Username and IP (Full)");
+    printf("\n0. Exit");
     printf("\n------------------------------");
-    printf("\n[>] Escolha uma opcao: ");
+    printf("\n[>] Choice: ");
 }
 
 int main() {
