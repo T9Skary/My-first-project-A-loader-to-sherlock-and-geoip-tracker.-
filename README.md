@@ -4,7 +4,7 @@
 To ensure the environment operates at peak performance, the following specifications are required:
 * **Operating System:** Windows 10/11 or Linux (Kali/Debian preferred).
 * **Compiler:** GCC (MinGW) for compiling the C-based core.
-* **Runtimes:** Node.js (for Web/WAF modules) and SQL Database for logging.
+* **Runtimes:** VcRuntime140
 * **Network:** Stable internet connection (VPN recommended for OpSec).
 
 ## 📝 About the Program
